@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSManagedObjectModel_CurrentVersionName</key>
+	<string>Sudoku_Basic</string>
+	<key>NSManagedObjectModel_VersionHashes</key>
+	<dict>
+		<key>Sudoku_Basic</key>
+		<dict>
+			<key>CellData</key>
+			<data>
+			1ihC0Nz+V6J+V2/8aXF7y6yxiQOxeYh6vANtrrH7LRA=
+			</data>
+			<key>GameSettings</key>
+			<data>
+			h0PO/l7yEhHyjZjTUUw6zbWUxmzCxYg8cq0emE+K7qM=
+			</data>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+/Users/davidf/Documents/Projects/Sudoku Basic/iPhone/HelpViewController.m:32: error: cannot find protocol declaration for 'iPhoneHelpProtocol'
+/Users/davidf/Documents/Projects/Sudoku Basic/iPhone/HelpViewController.m: In function '-[HelpViewController initWithTitle:withDelegate:]':
+/Users/davidf/Documents/Projects/Sudoku Basic/iPhone/HelpViewController.m:35: error: 'delegate' undeclared (first use in this function)
+/Users/davidf/Documents/Projects/Sudoku Basic/iPhone/HelpViewController.m:35: error: (Each undeclared identifier is reported only once
+/Users/davidf/Documents/Projects/Sudoku Basic/iPhone/HelpViewController.m:35: error: for each function it appears in.)
+/Users/davidf/Documents/Projects/Sudoku Basic/iPhone/HelpViewController.m: In function '-[HelpViewController Done:]':
+/Users/davidf/Documents/Projects/Sudoku Basic/iPhone/HelpViewController.m:93: error: 'delegate' undeclared (first use in this function)
+/Users/davidf/Documents/Projects/Sudoku Basic/iPhone/HelpViewController.m: At top level:
+/Users/davidf/Documents/Projects/Sudoku Basic/iPhone/HelpViewController.m:131: warning: incomplete implementation of class 'HelpViewController'
+/Users/davidf/Documents/Projects/Sudoku Basic/iPhone/HelpViewController.m:131: warning: method definition for '-initWithTitle:' not found
+{standard input}:126:non-relocatable subtraction expression, "L_OBJC_IVAR_$_pdfInfo.pdfName$non_lazy_ptr" minus "L00000000003$pb"
+{standard input}:126:symbol: "L_OBJC_IVAR_$_pdfInfo.pdfName$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:103:non-relocatable subtraction expression, "L_OBJC_IVAR_$_pdfInfo.pdfName$non_lazy_ptr" minus "L00000000002$pb"
+{standard input}:103:symbol: "L_OBJC_IVAR_$_pdfInfo.pdfName$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:70:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+{standard input}:70:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+{standard input}:56:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+{standard input}:56:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+{standard input}:52:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"
+{standard input}:52:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_pdfInfo.pdfName$non_lazy_ptr

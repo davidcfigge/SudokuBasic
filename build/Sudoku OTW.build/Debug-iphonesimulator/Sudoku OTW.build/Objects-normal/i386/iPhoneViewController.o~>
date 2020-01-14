@@ -1,0 +1,7 @@
+/Users/davidf/Documents/Projects/Sudoku Basic/iPhone/iPhoneViewController.m: In function '-[iPhoneViewController PopupController:didSelectItem:withID:]':
+/Users/davidf/Documents/Projects/Sudoku Basic/iPhone/iPhoneViewController.m:297: warning: 'GameManager' may not respond to '-popupDismissed'
+/Users/davidf/Documents/Projects/Sudoku Basic/iPhone/iPhoneViewController.m:297: warning: (Messages without a matching method signature
+/Users/davidf/Documents/Projects/Sudoku Basic/iPhone/iPhoneViewController.m:297: warning: will be assumed to return 'id' and accept
+/Users/davidf/Documents/Projects/Sudoku Basic/iPhone/iPhoneViewController.m:297: warning: '...' as arguments.)
+/Users/davidf/Documents/Projects/Sudoku Basic/iPhone/iPhoneViewController.m: In function '-[iPhoneViewController PopupControllerSelectionCanceled:withID:]':
+/Users/davidf/Documents/Projects/Sudoku Basic/iPhone/iPhoneViewController.m:309: warning: 'GameManager' may not respond to '-popupDismissed'

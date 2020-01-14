@@ -1,0 +1,7 @@
+/Users/davidf/Documents/Projects/Sudoku Basic/iPadViewController.m: In function '-[iPadViewController PopupController:didSelectItem:withID:]':
+/Users/davidf/Documents/Projects/Sudoku Basic/iPadViewController.m:299: warning: 'GameManager' may not respond to '-popupDismissed'
+/Users/davidf/Documents/Projects/Sudoku Basic/iPadViewController.m:299: warning: (Messages without a matching method signature
+/Users/davidf/Documents/Projects/Sudoku Basic/iPadViewController.m:299: warning: will be assumed to return 'id' and accept
+/Users/davidf/Documents/Projects/Sudoku Basic/iPadViewController.m:299: warning: '...' as arguments.)
+/Users/davidf/Documents/Projects/Sudoku Basic/iPadViewController.m: In function '-[iPadViewController PopupControllerSelectionCanceled:withID:]':
+/Users/davidf/Documents/Projects/Sudoku Basic/iPadViewController.m:311: warning: 'GameManager' may not respond to '-popupDismissed'

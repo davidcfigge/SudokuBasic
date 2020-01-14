@@ -1,0 +1,2 @@
+/Users/davidf/Documents/Projects/Sudoku Basic/UIManager.m: In function '-[UIManager setSettingsSelected:]':
+/Users/davidf/Documents/Projects/Sudoku Basic/UIManager.m:179: warning: '-setSettingsSelected:' not found in protocol(s)

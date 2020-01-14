@@ -1,0 +1,10 @@
+/Users/davidf/Documents/Projects/Sudoku Basic/iPadHelpViewController.m:23: error: cannot find protocol declaration for 'iPadHelpProtocol'
+/Users/davidf/Documents/Projects/Sudoku Basic/iPadHelpViewController.m: In function '-[iPadHelpViewController initWithTitle:withDelegate:]':
+/Users/davidf/Documents/Projects/Sudoku Basic/iPadHelpViewController.m:26: error: 'delegate' undeclared (first use in this function)
+/Users/davidf/Documents/Projects/Sudoku Basic/iPadHelpViewController.m:26: error: (Each undeclared identifier is reported only once
+/Users/davidf/Documents/Projects/Sudoku Basic/iPadHelpViewController.m:26: error: for each function it appears in.)
+/Users/davidf/Documents/Projects/Sudoku Basic/iPadHelpViewController.m: In function '-[iPadHelpViewController Done:]':
+/Users/davidf/Documents/Projects/Sudoku Basic/iPadHelpViewController.m:83: error: 'delegate' undeclared (first use in this function)
+/Users/davidf/Documents/Projects/Sudoku Basic/iPadHelpViewController.m: At top level:
+/Users/davidf/Documents/Projects/Sudoku Basic/iPadHelpViewController.m:124: warning: incomplete implementation of class 'iPadHelpViewController'
+/Users/davidf/Documents/Projects/Sudoku Basic/iPadHelpViewController.m:124: warning: method definition for '-initWithTitle:' not found

@@ -1,0 +1,2 @@
+/Users/davidf/Documents/Projects/Sudoku Basic/UIManager.m: In function '-[UIManager showHelp]':
+/Users/davidf/Documents/Projects/Sudoku Basic/UIManager.m:35: warning: '-showHelp' not found in protocol(s)

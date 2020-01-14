@@ -1,0 +1,8 @@
+/Users/davidf/Documents/Projects/Sudoku Basic/UIManager.m: In function '-[UIManager displayMessageBox:withMessage:withYesNo:]':
+/Users/davidf/Documents/Projects/Sudoku Basic/UIManager.m:151: warning: '-displayMessageBox:withMessage:withYesNo:' not found in protocol(s)
+/Users/davidf/Documents/Projects/Sudoku Basic/UIManager.m: At top level:
+/Users/davidf/Documents/Projects/Sudoku Basic/UIManager.m:186: warning: incomplete implementation of class 'UIManager'
+/Users/davidf/Documents/Projects/Sudoku Basic/UIManager.m:186: warning: method definition for '-displayMessageBox:withMessage:' not found
+/Users/davidf/Documents/Projects/Sudoku Basic/UIManager.m:186: warning: incomplete implementation of class 'UIManager'
+/Users/davidf/Documents/Projects/Sudoku Basic/UIManager.m:186: warning: method definition for '-displayMessageBox:withMessage:' not found
+/Users/davidf/Documents/Projects/Sudoku Basic/UIManager.m:186: warning: class 'UIManager' does not fully implement the 'UIMgrProtocol' protocol

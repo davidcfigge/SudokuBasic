@@ -1,0 +1,471 @@
+TSudoku Basic
+v7
+r0
+t312777437.530287
+cCheck dependencies
+cProcessInfoPlistFile "/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/Info.plist" Sudoku_Basic-Info.plist
+cCompileXIB "/Users/davidf/Documents/Projects/Sudoku Basic/iPad/MainWindow_iPad.xib"
+cCompileXIB "/Users/davidf/Documents/Projects/Sudoku Basic/iPhone/MainWindow_iPhone.xib"
+cCpResource "build/Debug-iphonesimulator/Sudoku Basic.app/touchpad.png" touchpad.png
+cCpResource "build/Debug-iphonesimulator/Sudoku Basic.app/GridOldPaper.png" GridOldPaper.png
+cCpResource "build/Debug-iphonesimulator/Sudoku Basic.app/ItalyBackground.png" ItalyBackground.png
+cCpResource "build/Debug-iphonesimulator/Sudoku Basic.app/Rail.png" Rail.png
+cCompileXIB "/Users/davidf/Documents/Projects/Sudoku Basic/BoardViewController.xib"
+cProcessPCH /var/folders/Kl/KlFFxTtQHOO+SJgxeWa1wk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Basic_Prefix-dhouwibmkuytjnacyhjqtxxkryet/Sudoku_Basic_Prefix.pch.gch Sudoku_Basic_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile "/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/Sudoku_Basic.momd" "/Users/davidf/Documents/Projects/Sudoku Basic/Shared/Sudoku_Basic.xcdatamodeld"
+cCompileC "build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/main.o" "/Users/davidf/Documents/Projects/Sudoku Basic/Shared/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/AppDelegate_iPad.o" "/Users/davidf/Documents/Projects/Sudoku Basic/iPad/AppDelegate_iPad.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/AppDelegate_Shared.o" "/Users/davidf/Documents/Projects/Sudoku Basic/Shared/AppDelegate_Shared.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/AppDelegate_iPhone.o" "/Users/davidf/Documents/Projects/Sudoku Basic/iPhone/AppDelegate_iPhone.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/iPadViewController.o" "/Users/davidf/Documents/Projects/Sudoku Basic/iPadViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/BoardViewController.o" "/Users/davidf/Documents/Projects/Sudoku Basic/BoardViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/Sudoku Basic" normal i386
+cGenerateDSYMFile "/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app.dSYM" "/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/Sudoku Basic"
+cTouch "/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004CC122A000000000001D6CE0
+t1287725728
+s1928416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC12294000000000000046B
+t1287725716
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/BoardViewController.h
+c000000004CF461BD00000000000000EF
+t1291084221
+s239
+i<UIKit/UIKit.h>
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/BoardViewController.m
+c000000004CF461BD000000000000052F
+t1291084221
+s1327
+i"BoardViewController.h"
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/BoardViewController.xib
+c000000004CF4635700000000000042CF
+t1291084631
+s17103
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/GridOldPaper.png
+c000000004CF425CA0000000000076477
+t1291068874
+s484471
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/ItalyBackground.png
+c000000004CF4282E000000000012A6F1
+t1291069486
+s1222385
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/Rail.png
+c000000004CF428E400000000000060A2
+t1291069668
+s24738
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/Shared/AppDelegate_Shared.h
+c000000004CF4578F0000000000000369
+t1291081615
+s873
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/Shared/AppDelegate_Shared.m
+c000000004CF4578F0000000000001774
+t1291081615
+s6004
+i"AppDelegate_Shared.h"
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/Shared/Sudoku_Basic.xcdatamodeld
+c000000004CF4578F0000000000000088
+t1291081615
+s136
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/Shared/main.m
+c000000004CF4578F000000000000016E
+t1291081615
+s366
+i<UIKit/UIKit.h>
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/Sudoku_Basic_Prefix.pch
+c000000004CF4578F00000000000000C1
+t1291081615
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app
+t1291084637
+s442
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app.dSYM
+t1291084637
+s102
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/BoardViewController.nib
+t1291084635
+s1070
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/GridOldPaper.png
+t1291084635
+s484471
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/Info.plist
+t1291084634
+s925
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/ItalyBackground.png
+t1291084635
+s1222385
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/MainWindow_iPad.nib
+t1291084635
+s1770
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/MainWindow_iPhone.nib
+t1291084635
+s984
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/PkgInfo
+t1291084634
+s8
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/Rail.png
+t1291084635
+s24738
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/Sudoku Basic
+t1291084637
+s27076
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/Sudoku_Basic.momd
+t1291084637
+s136
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/touchpad.png
+t1291084635
+s143763
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/AppDelegate_Shared.o
+t1291084637
+s59152
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/AppDelegate_iPad.o
+t1291084637
+s47352
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/AppDelegate_iPhone.o
+t1291084637
+s48492
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/BoardViewController.o
+t1291084637
+s38184
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/Sudoku Basic.LinkFileList
+c000000004CF4635A0000000000000387
+t1291084634
+s903
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/iPadViewController.o
+t1291084637
+s40748
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/main.o
+t1291084637
+s6332
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/iPad/AppDelegate_iPad.h
+c000000004CF4578F000000000000010A
+t1291081615
+s266
+i<UIKit/UIKit.h>
+i"AppDelegate_Shared.h"
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/iPad/AppDelegate_iPad.m
+c000000004CF4578F0000000000000727
+t1291081615
+s1831
+i"AppDelegate_iPad.h"
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/iPad/MainWindow_iPad.xib
+c000000004CF461040000000000006DB8
+t1291084036
+s28088
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/iPadViewController.h
+c000000004CF4608500000000000001AA
+t1291083909
+s426
+i<UIKit/UIKit.h>
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/iPadViewController.m
+c000000004CF4608700000000000005CA
+t1291083911
+s1482
+i"iPadViewController.h"
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/iPhone/AppDelegate_iPhone.h
+c000000004CF4578F000000000000010E
+t1291081615
+s270
+i<UIKit/UIKit.h>
+i"AppDelegate_Shared.h"
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/iPhone/AppDelegate_iPhone.m
+c000000004CF4578F0000000000000AD2
+t1291081615
+s2770
+i"AppDelegate_iPhone.h"
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/iPhone/MainWindow_iPhone.xib
+c000000004CF4578F0000000000003A90
+t1291081615
+s14992
+
+N/Users/davidf/Documents/Projects/Sudoku Basic/touchpad.png
+c000000004CF4439A0000000000023193
+t1291076506
+s143763
+
+N/var/folders/Kl/KlFFxTtQHOO+SJgxeWa1wk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Basic_Prefix-dhouwibmkuytjnacyhjqtxxkryet/Sudoku_Basic_Prefix.pch.gch
+t1291084636
+s15453392
+
+NSudoku_Basic-Info.plist
+c000000004CF4578F0000000000000569
+t1291081615
+s1385
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312777434#312777434#0(0"0(0#1#0"27866456492998768#0"0#
+
+CCompileC "build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/AppDelegate_Shared.o" "/Users/davidf/Documents/Projects/Sudoku Basic/Shared/AppDelegate_Shared.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s312777437.162934
+e312777437.278824
+r1
+xCompileC
+xbuild/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/AppDelegate_Shared.o
+x/Users/davidf/Documents/Projects/Sudoku Basic/Shared/AppDelegate_Shared.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/davidf/Documents/Projects/Sudoku Basic/Shared/AppDelegate_Shared.m312777437#312777437#0(0"0(0#0#73"/Users/davidf/Documents/Projects/Sudoku Basic/Shared/AppDelegate_Shared.m8614907712#2148"    cd "/Users/davidf/Documents/Projects/Sudoku Basic"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Sudoku Basic-generated-files.hmap" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Sudoku Basic-own-target-headers.hmap" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Sudoku Basic-all-target-headers.hmap" -iquote "/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Sudoku Basic-project-headers.hmap" "-F/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/include" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/DerivedSources/i386" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/DerivedSources" -include /var/folders/Kl/KlFFxTtQHOO+SJgxeWa1wk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Basic_Prefix-dhouwibmkuytjnacyhjqtxxkryet/Sudoku_Basic_Prefix.pch -c "/Users/davidf/Documents/Projects/Sudoku Basic/Shared/AppDelegate_Shared.m" -o "/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/AppDelegate_Shared.o"0#
+
+CCompileC "build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/AppDelegate_iPad.o" "/Users/davidf/Documents/Projects/Sudoku Basic/iPad/AppDelegate_iPad.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s312777437.156900
+e312777437.262803
+r1
+xCompileC
+xbuild/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/AppDelegate_iPad.o
+x/Users/davidf/Documents/Projects/Sudoku Basic/iPad/AppDelegate_iPad.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/davidf/Documents/Projects/Sudoku Basic/iPad/AppDelegate_iPad.m312777437#312777437#0(0"0(0#0#69"/Users/davidf/Documents/Projects/Sudoku Basic/iPad/AppDelegate_iPad.m8612600064#2142"    cd "/Users/davidf/Documents/Projects/Sudoku Basic"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Sudoku Basic-generated-files.hmap" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Sudoku Basic-own-target-headers.hmap" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Sudoku Basic-all-target-headers.hmap" -iquote "/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Sudoku Basic-project-headers.hmap" "-F/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/include" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/DerivedSources/i386" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/DerivedSources" -include /var/folders/Kl/KlFFxTtQHOO+SJgxeWa1wk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Basic_Prefix-dhouwibmkuytjnacyhjqtxxkryet/Sudoku_Basic_Prefix.pch -c "/Users/davidf/Documents/Projects/Sudoku Basic/iPad/AppDelegate_iPad.m" -o "/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/AppDelegate_iPad.o"0#
+
+CCompileC "build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/AppDelegate_iPhone.o" "/Users/davidf/Documents/Projects/Sudoku Basic/iPhone/AppDelegate_iPhone.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s312777437.262911
+e312777437.381680
+r1
+xCompileC
+xbuild/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/AppDelegate_iPhone.o
+x/Users/davidf/Documents/Projects/Sudoku Basic/iPhone/AppDelegate_iPhone.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/davidf/Documents/Projects/Sudoku Basic/iPhone/AppDelegate_iPhone.m312777437#312777437#0(0"0(0#0#73"/Users/davidf/Documents/Projects/Sudoku Basic/iPhone/AppDelegate_iPhone.m8590302528#2148"    cd "/Users/davidf/Documents/Projects/Sudoku Basic"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Sudoku Basic-generated-files.hmap" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Sudoku Basic-own-target-headers.hmap" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Sudoku Basic-all-target-headers.hmap" -iquote "/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Sudoku Basic-project-headers.hmap" "-F/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/include" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/DerivedSources/i386" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/DerivedSources" -include /var/folders/Kl/KlFFxTtQHOO+SJgxeWa1wk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Basic_Prefix-dhouwibmkuytjnacyhjqtxxkryet/Sudoku_Basic_Prefix.pch -c "/Users/davidf/Documents/Projects/Sudoku Basic/iPhone/AppDelegate_iPhone.m" -o "/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/AppDelegate_iPhone.o"0#
+
+CCompileC "build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/BoardViewController.o" "/Users/davidf/Documents/Projects/Sudoku Basic/BoardViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s312777437.358404
+e312777437.427094
+r1
+xCompileC
+xbuild/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/BoardViewController.o
+x/Users/davidf/Documents/Projects/Sudoku Basic/BoardViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/davidf/Documents/Projects/Sudoku Basic/BoardViewController.m312777437#312777437#0(0"0(0#0#67"/Users/davidf/Documents/Projects/Sudoku Basic/BoardViewController.m8608042080#2143"    cd "/Users/davidf/Documents/Projects/Sudoku Basic"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Sudoku Basic-generated-files.hmap" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Sudoku Basic-own-target-headers.hmap" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Sudoku Basic-all-target-headers.hmap" -iquote "/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Sudoku Basic-project-headers.hmap" "-F/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/include" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/DerivedSources/i386" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/DerivedSources" -include /var/folders/Kl/KlFFxTtQHOO+SJgxeWa1wk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Basic_Prefix-dhouwibmkuytjnacyhjqtxxkryet/Sudoku_Basic_Prefix.pch -c "/Users/davidf/Documents/Projects/Sudoku Basic/BoardViewController.m" -o "/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/BoardViewController.o"0#
+
+CCompileC "build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/iPadViewController.o" "/Users/davidf/Documents/Projects/Sudoku Basic/iPadViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s312777437.278931
+e312777437.358297
+r1
+xCompileC
+xbuild/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/iPadViewController.o
+x/Users/davidf/Documents/Projects/Sudoku Basic/iPadViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/davidf/Documents/Projects/Sudoku Basic/iPadViewController.m312777437#312777437#0(0"0(0#0#66"/Users/davidf/Documents/Projects/Sudoku Basic/iPadViewController.m8613813760#2141"    cd "/Users/davidf/Documents/Projects/Sudoku Basic"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Sudoku Basic-generated-files.hmap" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Sudoku Basic-own-target-headers.hmap" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Sudoku Basic-all-target-headers.hmap" -iquote "/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Sudoku Basic-project-headers.hmap" "-F/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/include" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/DerivedSources/i386" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/DerivedSources" -include /var/folders/Kl/KlFFxTtQHOO+SJgxeWa1wk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Basic_Prefix-dhouwibmkuytjnacyhjqtxxkryet/Sudoku_Basic_Prefix.pch -c "/Users/davidf/Documents/Projects/Sudoku Basic/iPadViewController.m" -o "/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/iPadViewController.o"0#
+
+CCompileC "build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/main.o" "/Users/davidf/Documents/Projects/Sudoku Basic/Shared/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s312777437.060444
+e312777437.162826
+r1
+xCompileC
+xbuild/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/main.o
+x/Users/davidf/Documents/Projects/Sudoku Basic/Shared/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/davidf/Documents/Projects/Sudoku Basic/Shared/main.m312777437#312777437#0(0"0(0#0#59"/Users/davidf/Documents/Projects/Sudoku Basic/Shared/main.m8613566720#2120"    cd "/Users/davidf/Documents/Projects/Sudoku Basic"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Sudoku Basic-generated-files.hmap" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Sudoku Basic-own-target-headers.hmap" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Sudoku Basic-all-target-headers.hmap" -iquote "/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Sudoku Basic-project-headers.hmap" "-F/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/include" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/DerivedSources/i386" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/DerivedSources" -include /var/folders/Kl/KlFFxTtQHOO+SJgxeWa1wk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Basic_Prefix-dhouwibmkuytjnacyhjqtxxkryet/Sudoku_Basic_Prefix.pch -c "/Users/davidf/Documents/Projects/Sudoku Basic/Shared/main.m" -o "/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/davidf/Documents/Projects/Sudoku Basic/BoardViewController.xib"
+s312777435.365275
+e312777435.781152
+r1
+xCompileXIB
+x/Users/davidf/Documents/Projects/Sudoku Basic/BoardViewController.xib
+lSLF07#2@34"CompileXIB BoardViewController.xib312777435#312777435#0(0"0(0#0#69"/Users/davidf/Documents/Projects/Sudoku Basic/BoardViewController.xib8613137024#620"    cd "/Users/davidf/Documents/Projects/Sudoku Basic"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/BoardViewController.nib" "/Users/davidf/Documents/Projects/Sudoku Basic/BoardViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/davidf/Documents/Projects/Sudoku Basic/iPad/MainWindow_iPad.xib"
+s312777434.964520
+e312777435.472182
+r1
+xCompileXIB
+x/Users/davidf/Documents/Projects/Sudoku Basic/iPad/MainWindow_iPad.xib
+lSLF07#2@35"CompileXIB iPad/MainWindow_iPad.xib312777434#312777435#0(0"0(0#0#70"/Users/davidf/Documents/Projects/Sudoku Basic/iPad/MainWindow_iPad.xib8615806432#617"    cd "/Users/davidf/Documents/Projects/Sudoku Basic"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/MainWindow_iPad.nib" "/Users/davidf/Documents/Projects/Sudoku Basic/iPad/MainWindow_iPad.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/davidf/Documents/Projects/Sudoku Basic/iPhone/MainWindow_iPhone.xib"
+s312777434.965525
+e312777435.361300
+r1
+xCompileXIB
+x/Users/davidf/Documents/Projects/Sudoku Basic/iPhone/MainWindow_iPhone.xib
+lSLF07#2@39"CompileXIB iPhone/MainWindow_iPhone.xib312777434#312777435#0(0"0(0#0#74"/Users/davidf/Documents/Projects/Sudoku Basic/iPhone/MainWindow_iPhone.xib8615091328#623"    cd "/Users/davidf/Documents/Projects/Sudoku Basic"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/MainWindow_iPhone.nib" "/Users/davidf/Documents/Projects/Sudoku Basic/iPhone/MainWindow_iPhone.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource "build/Debug-iphonesimulator/Sudoku Basic.app/GridOldPaper.png" GridOldPaper.png
+s312777435.362198
+e312777435.455047
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Sudoku Basic.app/GridOldPaper.png
+xGridOldPaper.png
+lSLF07#2@21"Copy GridOldPaper.png312777435#312777435#0(0"0(0#0#62"/Users/davidf/Documents/Projects/Sudoku Basic/GridOldPaper.png8613333792#506"    cd "/Users/davidf/Documents/Projects/Sudoku Basic"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/davidf/Documents/Projects/Sudoku Basic/GridOldPaper.png" "/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Sudoku Basic.app/ItalyBackground.png" ItalyBackground.png
+s312777435.363786
+e312777435.460748
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Sudoku Basic.app/ItalyBackground.png
+xItalyBackground.png
+lSLF07#2@24"Copy ItalyBackground.png312777435#312777435#0(0"0(0#0#65"/Users/davidf/Documents/Projects/Sudoku Basic/ItalyBackground.png8613284672#509"    cd "/Users/davidf/Documents/Projects/Sudoku Basic"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/davidf/Documents/Projects/Sudoku Basic/ItalyBackground.png" "/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Sudoku Basic.app/Rail.png" Rail.png
+s312777435.364568
+e312777435.411284
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Sudoku Basic.app/Rail.png
+xRail.png
+lSLF07#2@13"Copy Rail.png312777435#312777435#0(0"0(0#0#54"/Users/davidf/Documents/Projects/Sudoku Basic/Rail.png8613221440#498"    cd "/Users/davidf/Documents/Projects/Sudoku Basic"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/davidf/Documents/Projects/Sudoku Basic/Rail.png" "/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Sudoku Basic.app/touchpad.png" touchpad.png
+s312777435.361389
+e312777435.418981
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Sudoku Basic.app/touchpad.png
+xtouchpad.png
+lSLF07#2@17"Copy touchpad.png312777435#312777435#0(0"0(0#0#58"/Users/davidf/Documents/Projects/Sudoku Basic/touchpad.png8613478816#502"    cd "/Users/davidf/Documents/Projects/Sudoku Basic"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/davidf/Documents/Projects/Sudoku Basic/touchpad.png" "/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app"0#
+
+CDataModelVersionCompile "/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/Sudoku_Basic.momd" "/Users/davidf/Documents/Projects/Sudoku Basic/Shared/Sudoku_Basic.xcdatamodeld"
+s312777437.059376
+e312777437.156783
+r1
+xDataModelVersionCompile
+x/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/Sudoku_Basic.momd
+x/Users/davidf/Documents/Projects/Sudoku Basic/Shared/Sudoku_Basic.xcdatamodeld
+lSLF07#2@121"DataModelVersionCompile "build/Debug-iphonesimulator/Sudoku Basic.app/Sudoku_Basic.momd" Shared/Sudoku_Basic.xcdatamodeld312777437#312777437#0(0"0(0#0#78"/Users/davidf/Documents/Projects/Sudoku Basic/Shared/Sudoku_Basic.xcdatamodeld8614859264#435"    cd "/Users/davidf/Documents/Projects/Sudoku Basic"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 "/Users/davidf/Documents/Projects/Sudoku Basic/Shared/Sudoku_Basic.xcdatamodeld" "/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/Sudoku_Basic.momd"0#
+
+CGenerateDSYMFile "/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app.dSYM" "/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/Sudoku Basic"
+s312777437.480271
+e312777437.508424
+r1
+xGenerateDSYMFile
+x/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app.dSYM
+x/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/Sudoku Basic
+lSLF07#2@128"GenerateDSYMFile "build/Debug-iphonesimulator/Sudoku Basic.app.dSYM" "build/Debug-iphonesimulator/Sudoku Basic.app/Sudoku Basic"312777437#312777437#0(0"0(0#0#103"/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/Sudoku Basic8608287264#425"    cd "/Users/davidf/Documents/Projects/Sudoku Basic"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/Sudoku Basic" -o "/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app.dSYM"0#
+
+CLd "/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/Sudoku Basic" normal i386
+s312777437.427189
+e312777437.480169
+r1
+xLd
+x/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/Sudoku Basic
+xnormal
+xi386
+lSLF07#2@108"Link /Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/Sudoku Basic312777437#312777437#0(0"0(0#0#0"8609030176#990"    cd "/Users/davidf/Documents/Projects/Sudoku Basic"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator" "-F/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator" -filelist "/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Objects-normal/i386/Sudoku Basic.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o "/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/Sudoku Basic"0#
+
+CProcessInfoPlistFile "/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/Info.plist" Sudoku_Basic-Info.plist
+s312777434.945902
+e312777434.964421
+r1
+xProcessInfoPlistFile
+x/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/Info.plist
+xSudoku_Basic-Info.plist
+lSLF07#2@31"Process Sudoku_Basic-Info.plist312777434#312777434#0(0"0(0#0#69"/Users/davidf/Documents/Projects/Sudoku Basic/Sudoku_Basic-Info.plist7599087901928420352#521"    cd "/Users/davidf/Documents/Projects/Sudoku Basic"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Sudoku_Basic-Info.plist -genpkginfo "/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app/Info.plist"0#
+
+CProcessPCH /var/folders/Kl/KlFFxTtQHOO+SJgxeWa1wk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Basic_Prefix-dhouwibmkuytjnacyhjqtxxkryet/Sudoku_Basic_Prefix.pch.gch Sudoku_Basic_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s312777435.781349
+e312777437.059178
+r1
+xProcessPCH
+x/var/folders/Kl/KlFFxTtQHOO+SJgxeWa1wk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Basic_Prefix-dhouwibmkuytjnacyhjqtxxkryet/Sudoku_Basic_Prefix.pch.gch
+xSudoku_Basic_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile Sudoku_Basic_Prefix.pch312777435#312777437#0(0"0(0#0#69"/Users/davidf/Documents/Projects/Sudoku Basic/Sudoku_Basic_Prefix.pch8615046240#1991"    cd "/Users/davidf/Documents/Projects/Sudoku Basic"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Sudoku Basic-generated-files.hmap" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Sudoku Basic-own-target-headers.hmap" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Sudoku Basic-all-target-headers.hmap" -iquote "/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/Sudoku Basic-project-headers.hmap" "-F/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/include" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/DerivedSources/i386" "-I/Users/davidf/Documents/Projects/Sudoku Basic/build/Sudoku Basic.build/Debug-iphonesimulator/Sudoku Basic.build/DerivedSources" -c "/Users/davidf/Documents/Projects/Sudoku Basic/Sudoku_Basic_Prefix.pch" -o /var/folders/Kl/KlFFxTtQHOO+SJgxeWa1wk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sudoku_Basic_Prefix-dhouwibmkuytjnacyhjqtxxkryet/Sudoku_Basic_Prefix.pch.gch0#
+
+CTouch "/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app"
+s312777437.508519
+e312777437.530217
+r1
+xTouch
+x/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app
+lSLF07#2@96"Touch /Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app312777437#312777437#0(0"0(0#0#0"8615662752#301"    cd "/Users/davidf/Documents/Projects/Sudoku Basic"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/davidf/Documents/Projects/Sudoku Basic/build/Debug-iphonesimulator/Sudoku Basic.app"0#
+

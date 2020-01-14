@@ -1,0 +1,7 @@
+/Users/davidf/Documents/Projects/Sudoku Basic/GameManager.m: In function '-[GameManager initWithUIManager:]':
+/Users/davidf/Documents/Projects/Sudoku Basic/GameManager.m:35: error: 'datastore' undeclared (first use in this function)
+/Users/davidf/Documents/Projects/Sudoku Basic/GameManager.m:35: error: (Each undeclared identifier is reported only once
+/Users/davidf/Documents/Projects/Sudoku Basic/GameManager.m:35: error: for each function it appears in.)
+/Users/davidf/Documents/Projects/Sudoku Basic/GameManager.m:35: error: 'Datastore' undeclared (first use in this function)
+/Users/davidf/Documents/Projects/Sudoku Basic/GameManager.m: In function '-[GameManager initialGameSetup]':
+/Users/davidf/Documents/Projects/Sudoku Basic/GameManager.m:54: error: 'datastore' undeclared (first use in this function)

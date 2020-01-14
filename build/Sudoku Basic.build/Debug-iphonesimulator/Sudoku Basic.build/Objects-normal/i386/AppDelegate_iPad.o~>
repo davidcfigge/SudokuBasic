@@ -1,0 +1,7 @@
+/Users/davidf/Documents/Projects/Sudoku Basic/iPad/AppDelegate_iPad.m: In function '-[AppDelegate_iPad applicationWillResignActive:]':
+/Users/davidf/Documents/Projects/Sudoku Basic/iPad/AppDelegate_iPad.m:41: warning: 'UIViewController' may not respond to '-sleep'
+/Users/davidf/Documents/Projects/Sudoku Basic/iPad/AppDelegate_iPad.m:41: warning: (Messages without a matching method signature
+/Users/davidf/Documents/Projects/Sudoku Basic/iPad/AppDelegate_iPad.m:41: warning: will be assumed to return 'id' and accept
+/Users/davidf/Documents/Projects/Sudoku Basic/iPad/AppDelegate_iPad.m:41: warning: '...' as arguments.)
+/Users/davidf/Documents/Projects/Sudoku Basic/iPad/AppDelegate_iPad.m: In function '-[AppDelegate_iPad applicationDidBecomeActive:]':
+/Users/davidf/Documents/Projects/Sudoku Basic/iPad/AppDelegate_iPad.m:47: warning: 'UIViewController' may not respond to '-wake'
